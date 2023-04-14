@@ -13,6 +13,6 @@
 You are my ![Visitor Count](https://profile-counter.glitch.me/QHSWGS/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set<h3>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=24&pause=1000&color=9999FF&center=true&vCenter=true&width=1360&height=52&lines=每个人都有彷徨的时候，彷徨并不可怕，可怕的是在彷徨中不做抉择。因为一旦有抉择，就不会再彷徨，就会按照既定的方向去行事)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=相逢的人會再相逢)
 
 
